@@ -78,7 +78,9 @@ Relationship Tables:
 ● Meme_has_an
 ● Meme_belongs_to
 ● meme_in_era
-● personality_belongs_to_subculture ● personality_belongs_to_community ● personality_posts
+● personality_belongs_to_subculture 
+● personality_belongs_to_community 
+● personality_posts
 ● community_circulates
 
 Data Acquisition:
